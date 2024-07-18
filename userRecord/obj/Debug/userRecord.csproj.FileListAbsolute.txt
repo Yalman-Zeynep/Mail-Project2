@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\userRecord\bin\Debug\userRecord.exe.config
+C:\Users\Lenovo\Documents\userRecord\bin\Debug\userRecord.exe
+C:\Users\Lenovo\Documents\userRecord\bin\Debug\userRecord.pdb
+C:\Users\Lenovo\Documents\userRecord\obj\Debug\userRecord.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\userRecord\obj\Debug\userRecord.Form2.resources
+C:\Users\Lenovo\Documents\userRecord\obj\Debug\userRecord.Properties.Resources.resources
+C:\Users\Lenovo\Documents\userRecord\obj\Debug\userRecord.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\userRecord\obj\Debug\userRecord.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\userRecord\obj\Debug\userRecord.exe
+C:\Users\Lenovo\Documents\userRecord\obj\Debug\userRecord.pdb
+C:\Users\Lenovo\Documents\userRecord\obj\Debug\userRecord.Register.resources
